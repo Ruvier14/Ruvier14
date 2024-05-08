@@ -8,13 +8,13 @@ I have been learning to code recently when I entered school at ASU as an Informa
 <br>
 I currently am working on Java technologies and its back-end framework on Springboot.
 <br>
-I have experience in HTML/CSS/JS , Python, and Java* 
+I have experience in HTML/CSS/JS (React.js) , Python, and Java* 
 <br>
 🌍  I'm based in California*
 <br>
 ✉️  You can contact me at [ruvier20144@gmail.com](mailto:ruvier20144@gmail.com)*
 <br>
-🧠  I'm learning React, JavaScript, and Java Spring*
+🧠  I'm learning React, JavaScript, and Java Springboot*
 <br>
 🤝  I'm open to collaborating on Making a fullstack environment with a functional Front-End style and Integerating Back end with Java Springboot* 
 <br>
