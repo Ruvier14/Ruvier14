@@ -14,7 +14,7 @@ I have experience in HTML/CSS/JS (React.js) , Python, and Java*
 <br>
 ✉️  You can contact me at [ruvier20144@gmail.com](mailto:ruvier20144@gmail.com)*
 <br>
-🧠  I'm learning React, JavaScript, and Java Springboot*
+🧠  I'm learning React, JavaScript, and Java Springboot, NodeJS*
 <br>
 🤝  I'm open to collaborating on Making a fullstack environment with a functional Front-End style and Integerating Back end with Java Springboot* 
 <br>
