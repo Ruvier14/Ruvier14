@@ -1,8 +1,8 @@
 <h3 align="center">A passionate frontend developer from CA</h3>
 
-- 🔭 I’m currently working on **Data Structures on Java**
+- 🔭 I’m currently working on **Data Structures on Java, React, NodeJS**
 
-- 🌱 I’m currently learning **Python, Back-End Tech, NodeJs**
+- 🌱 I’m currently learning **Python, Back-End Tech, NodeJs. Django**
 
 - 👯 I’m looking to collaborate on **AI and Back-End**
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ruvier14](https://github.com/Ruvier14)
 
-- 💬 Ask me about **Core Java**
+- 💬 Ask me about **Core Java, React, Django**
 
 - 📫 How to reach me **ruvier20144@gmail.com**
 
