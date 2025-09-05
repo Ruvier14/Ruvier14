@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from CA</h3>
+<h3 align="center">A dev that just likes techy stuff/h3>
 
 - 🔭 I’m currently working on **Data Structures on Java, React, NodeJS**
 
