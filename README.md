@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Data Structures on Java, React, NodeJS**
 
-- 🌱 I’m currently learning **Python, Back-End Tech, NodeJs. Django**
+- 🌱 I’m currently learning **Python, Back-End Tech, NodeJs(Express.js), NextJs, Django**
 
 - 👯 I’m looking to collaborate on **AI and Back-End**
 
