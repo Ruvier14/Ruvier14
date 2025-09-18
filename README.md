@@ -1,10 +1,12 @@
 <h3 align="center">A dev that just likes techy stuff</h3>
 
-- 🔭 I’m currently working on **Data Structures on Java, React, NodeJS**
+<a href="https://portfolio-nextjs-khaki-three.vercel.app/"> ** Click here to check out my Portfolio Wbesite! ** </a>
+
+- 🔭 I’m currently working on **Java, React, NodeJS**
 
 - 🌱 I’m currently learning **Python, Back-End Tech, NodeJs(Express.js), NextJs, Django**
 
-- 👯 I’m looking to collaborate on **AI and Back-End**
+- 👯 I’m looking to collaborate on **AI, Software-Development, and Back-End**
 
 - 🤝 I’m looking for help with **Java, NodeJs, Spring Boot Development/BackEnd**
 
