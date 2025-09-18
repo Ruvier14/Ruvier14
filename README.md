@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ruvier14](https://github.com/Ruvier14)
 
-- 💬 Ask me about **Core Java, React, Django**
+- 💬 Ask me about **Any Tech Related / Software Engineering things especially AI**
 
 - 📫 How to reach me **ruvier20144@gmail.com**
 
