@@ -1,6 +1,6 @@
 <h3 align="center">A dev that just likes techy stuff</h3>
 
-<a href="https://portfolio-nextjs-khaki-three.vercel.app/"> ** Click here to check out my Portfolio Wbesite! ** </a>
+<a href="https://portfolio-nextjs-khaki-three.vercel.app/"> Click here to check out my Portfolio Website! </a>
 
 - 🔭 I’m currently working on **Java, React, NodeJS**
 
